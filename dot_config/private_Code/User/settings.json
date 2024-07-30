@@ -1,0 +1,12 @@
+{
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "workbench.activityBar.location": "top",
+    "window.customTitleBarVisibility": "auto",
+    "workbench.iconTheme": "sakai-icons-expanded",
+    "workbench.colorTheme": "Nord Midnight",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.mouseWheelZoom": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 16
+}
